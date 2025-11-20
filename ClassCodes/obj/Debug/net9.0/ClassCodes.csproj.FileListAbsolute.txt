@@ -1,0 +1,14 @@
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/bin/Debug/net9.0/ClassCodes
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/bin/Debug/net9.0/ClassCodes.deps.json
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/bin/Debug/net9.0/ClassCodes.runtimeconfig.json
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/bin/Debug/net9.0/ClassCodes.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/bin/Debug/net9.0/ClassCodes.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ClassCodes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ClassCodes.AssemblyInfoInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ClassCodes.AssemblyInfo.cs
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ClassCodes.csproj.CoreCompileInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ClassCodes.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/refint/ClassCodes.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ClassCodes.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ClassCodes.genruntimeconfig.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/ClassCodes/obj/Debug/net9.0/ref/ClassCodes.dll

@@ -1,0 +1,14 @@
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/bin/Debug/net9.0/Class
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/bin/Debug/net9.0/Class.deps.json
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/bin/Debug/net9.0/Class.runtimeconfig.json
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/bin/Debug/net9.0/Class.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/bin/Debug/net9.0/Class.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/Class.AssemblyInfoInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/Class.AssemblyInfo.cs
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/Class.csproj.CoreCompileInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/Class.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/refint/Class.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/Class.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/Class.genruntimeconfig.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/Class/obj/Debug/net9.0/ref/Class.dll

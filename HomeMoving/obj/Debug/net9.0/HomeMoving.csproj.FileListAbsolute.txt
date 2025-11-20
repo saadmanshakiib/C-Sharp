@@ -1,0 +1,14 @@
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/bin/Debug/net9.0/HomeMoving
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/bin/Debug/net9.0/HomeMoving.deps.json
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/bin/Debug/net9.0/HomeMoving.runtimeconfig.json
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/bin/Debug/net9.0/HomeMoving.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/bin/Debug/net9.0/HomeMoving.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/HomeMoving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/HomeMoving.AssemblyInfoInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/HomeMoving.AssemblyInfo.cs
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/HomeMoving.csproj.CoreCompileInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/HomeMoving.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/refint/HomeMoving.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/HomeMoving.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/HomeMoving.genruntimeconfig.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/HomeMoving/obj/Debug/net9.0/ref/HomeMoving.dll

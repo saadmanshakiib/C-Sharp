@@ -1,0 +1,14 @@
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/bin/Debug/net9.0/Jagged Array
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/bin/Debug/net9.0/Jagged Array.deps.json
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/bin/Debug/net9.0/Jagged Array.runtimeconfig.json
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/bin/Debug/net9.0/Jagged Array.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/bin/Debug/net9.0/Jagged Array.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/Jagged Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/Jagged Array.AssemblyInfoInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/Jagged Array.AssemblyInfo.cs
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/Jagged Array.csproj.CoreCompileInputs.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/Jagged Array.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/refint/Jagged Array.dll
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/Jagged Array.pdb
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/Jagged Array.genruntimeconfig.cache
+/Users/saadman/Desktop/PROGRAMMING/C#/Jagged Array/obj/Debug/net9.0/ref/Jagged Array.dll

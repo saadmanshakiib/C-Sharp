@@ -92,7 +92,11 @@ namespace calculator
 
         private void button13_Click(object sender, EventArgs e)
         {
-            tb.Text += "";
+            
+            tb.Text = "";
+            input = 0;
+            input2 = 0;
+            sign = "";
         }
 
         private void button14_Click(object sender, EventArgs e)
@@ -121,19 +125,18 @@ namespace calculator
 
         private void button17_Click(object sender, EventArgs e)
         {
-            var input2 = double.Parse(tb.Text);
+             input2 = double.Parse(tb.Text);
             if (sign == "+")
             {
                 var res = input + input2;
                 tb.Text = res.ToString();
-                ///to change
-                //input2 = 0;
-                //input = 0;
+                input = input2;
             }
             else if (sign == "X")
             {
                 var res = input * input2;
                 tb.Text = res.ToString();
+                input = input2;
                 //input2 = 0;
                 //input = 0;
             }
@@ -141,6 +144,7 @@ namespace calculator
             {
                 var res = input / input2;
                 tb.Text = res.ToString();
+                input = input2;
                 //input2 = 0;
                 //input = 0;
             }
@@ -148,6 +152,7 @@ namespace calculator
             {
                 var res = input - input2;
                 tb.Text = res.ToString();
+                input = input2;
                 //input2 = 0;
                 //input = 0;
             }

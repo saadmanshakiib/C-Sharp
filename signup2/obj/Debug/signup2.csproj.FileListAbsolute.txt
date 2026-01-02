@@ -1,0 +1,11 @@
+C:\C#\signup2\bin\Debug\signup2.exe.config
+C:\C#\signup2\bin\Debug\signup2.exe
+C:\C#\signup2\bin\Debug\signup2.pdb
+C:\C#\signup2\obj\Debug\signup2.csproj.AssemblyReference.cache
+C:\C#\signup2\obj\Debug\signup2.Form1.resources
+C:\C#\signup2\obj\Debug\signup2.Properties.Resources.resources
+C:\C#\signup2\obj\Debug\signup2.csproj.GenerateResource.cache
+C:\C#\signup2\obj\Debug\signup2.csproj.CoreCompileInputs.cache
+C:\C#\signup2\obj\Debug\signup2.exe
+C:\C#\signup2\obj\Debug\signup2.pdb
+C:\C#\signup2\obj\Debug\signup2.employeeManagerInfo.resources
